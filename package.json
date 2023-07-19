@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "package.json": "^2.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "^5.0.1",
@@ -35,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "- Understand why it's important to split up our code into smaller files.\r - Learn how `import` and `export` support our ability to build modular code.\r - Understand the different ways to import and export code.",
+  "main": "babel.config.js",
+  "author": "",
+  "license": "ISC"
 }
